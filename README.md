@@ -36,7 +36,8 @@ Het liefst beide, maar voor nu: Surface Plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+Link naar site:
+<a target="_blank" href="https://chamberlaincoffee.com/">https://chamberlaincoffee.com/</a>
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
