@@ -45,7 +45,7 @@ Home pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Detail pagina - product  
-<img src="images/product-screenshot" width="375px" alt="product screenshot van de pagina">
+<img src="images/product-screenshot.jpg" width="375px" alt="product screenshot van de pagina">
  
 </details>
 
