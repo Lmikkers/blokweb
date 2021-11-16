@@ -40,12 +40,12 @@ Link naar site:
 <a target="_blank" href="https://chamberlaincoffee.com/">https://chamberlaincoffee.com/</a>
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home pagina  
+<img src="images/home-screenshot.jpg" width="375px" alt="home pagina screenshot">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Detail pagina - product  
+<img src="images/product-screenshot" width="375px" alt="product screenshot van de pagina">
  
 </details>
 
