@@ -22,7 +22,7 @@ Larissa Mikkers
 Rood
 
 #### Je focus:
-Surface Plane
+Het liefst beide, maar voor nu: Surface Plane
  
 </details>
 
