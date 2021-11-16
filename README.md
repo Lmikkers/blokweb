@@ -42,11 +42,15 @@ Link naar site:
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina  
 <img src="images/home-screenshot.jpg" width="375px" alt="home pagina screenshot">
+Home pagina phone:
+<img src="images/home-screenshot-phone.jpg" width="375px" alt="home pagina screenshot">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Detail pagina - product  
 <img src="images/product-screenshot.jpg" width="375px" alt="product screenshot van de pagina">
- 
+Detail pagina - product phone:
+<img src="images/product-screenshot-phone.jpg" width="375px" alt="product screenshot van de pagina">
+
 </details>
 
 
